@@ -1,11 +1,22 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "description": "Starting to learn npm and react",
-  "main": "index.js",
+  "description": "react javascr",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gio Jalagonia",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gjala/react.git"
+  },
+  "author": "gio jalagonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gjala/react/issues"
+  },
+  "homepage": "https://github.com/Gjala/react#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
